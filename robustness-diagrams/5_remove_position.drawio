@@ -1,0 +1,229 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
+  <diagram name="Page-1" id="qfduJAQ9tqtmnZnXwY1I">
+    <mxGraphModel dx="2063" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="APVe44l5nV8UaU4UrbHo-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Εταιρεία&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-2" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="210" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-3" value="Homepage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="265" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;" parent="1" source="APVe44l5nV8UaU4UrbHo-1" target="APVe44l5nV8UaU4UrbHo-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="403" as="sourcePoint" />
+            <mxPoint x="325" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-5" value="Επιλογή αναρτημένων&amp;nbsp;&lt;div&gt;θέσεων πρακτικής&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;rotation=-30;fontColor=#0066CC;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-6" value="Εμφάνιση αναρτημένων&amp;nbsp; θέσεων πρακτικής" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="460" y="290" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-7" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="390" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-8" value="Available&amp;nbsp;&lt;div&gt;Positions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="270" y="340" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-6" target="APVe44l5nV8UaU4UrbHo-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-2" target="APVe44l5nV8UaU4UrbHo-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="254" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-1" target="APVe44l5nV8UaU4UrbHo-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-12" value="Επιλογή θέσης&amp;nbsp;&lt;div&gt;για διαγραφή&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;rotation=5;" parent="1" vertex="1">
+          <mxGeometry x="110" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-14" value="Έλγεχος για αναθετημένη θέση πρακτικής" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="460" y="420" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-7" target="APVe44l5nV8UaU4UrbHo-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-16" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-17" value="Βάση Δεδομένων" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-14" target="APVe44l5nV8UaU4UrbHo-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-21" value="Εμφάνιση παραθύρου επιβεβαίωσης διαγραφής" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="460" y="590" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-14" target="APVe44l5nV8UaU4UrbHo-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-23" value="Δεν είναι&amp;nbsp;&lt;div&gt;αναθετημένη&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="510" y="530" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-24" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="530" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-21" target="APVe44l5nV8UaU4UrbHo-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-1" target="APVe44l5nV8UaU4UrbHo-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-27" value="Delete Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-28" value="Επιβεβαίωση διαγραφής" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;rotation=30;" parent="1" vertex="1">
+          <mxGeometry x="75" y="448" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-29" value="Διαγραφή θέσης πρακτικής" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="355" y="690" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-24" target="APVe44l5nV8UaU4UrbHo-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-29" target="APVe44l5nV8UaU4UrbHo-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-34" value="Ανακατεύθυνση σε αναρτημένες θέσεις πρακτικής" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="700" y="710" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-29" target="APVe44l5nV8UaU4UrbHo-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.8;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-34" target="APVe44l5nV8UaU4UrbHo-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="792.1866659308957" y="701.8057506454588" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="250" />
+              <mxPoint x="570" y="250" />
+              <mxPoint x="390" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-37" value="Εμφάνιση παραθύρου αποτυχίας" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=light-dark(#FF3333,#ED0202);fontColor=light-dark(#FF3333,#ED0202);" parent="1" vertex="1">
+          <mxGeometry x="110" y="720" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-38" value="" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#FF3333,#ED0202);strokeColor=light-dark(#FF3333,#ED0202);" parent="1" source="APVe44l5nV8UaU4UrbHo-14" target="APVe44l5nV8UaU4UrbHo-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-39" value="Ανθετημένη θέση" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;rotation=-45;fontColor=light-dark(#FF3333,#ED0202);" parent="1" vertex="1">
+          <mxGeometry x="180" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-40" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fontColor=light-dark(#FF3333,#ED0202);strokeColor=light-dark(#FF3333,#ED0202);" parent="1" vertex="1">
+          <mxGeometry x="50" y="560" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-41" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" parent="1" source="APVe44l5nV8UaU4UrbHo-37" target="APVe44l5nV8UaU4UrbHo-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-42" value="Delete Denied" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=light-dark(#FF3333,#ED0202);" parent="1" vertex="1">
+          <mxGeometry x="45" y="535" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-43" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-44" value="Θέση Πρακτικής&amp;nbsp;&lt;div&gt;Άσκησης&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="440" y="760" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="APVe44l5nV8UaU4UrbHo-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-29" target="APVe44l5nV8UaU4UrbHo-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="APVe44l5nV8UaU4UrbHo-6" target="APVe44l5nV8UaU4UrbHo-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="457" as="sourcePoint" />
+            <mxPoint x="634" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-2" value="Επιβεβαίωση&amp;nbsp;&lt;div&gt;διαγραφής&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-3" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="565" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-5" value="" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#FF3333,#ED0202);strokeColor=light-dark(#FF3333,#ED0202);" parent="1" source="APVe44l5nV8UaU4UrbHo-21" target="QvjWjO3ixB_E6uKXtQRo-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528" y="760" as="sourcePoint" />
+            <mxPoint x="245" y="996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="640" />
+              <mxPoint x="630" y="910" />
+              <mxPoint x="70" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-7" value="Μη επιβεβαίωση διαγραφής" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#FF3333,#ED0202);" parent="1" vertex="1">
+          <mxGeometry x="130" y="880" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-8" value="Delete Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=light-dark(#FF3333,#ED0202);" parent="1" vertex="1">
+          <mxGeometry x="-120" y="530" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" parent="1" source="APVe44l5nV8UaU4UrbHo-1" target="QvjWjO3ixB_E6uKXtQRo-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="733" as="sourcePoint" />
+            <mxPoint x="123" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="400" />
+              <mxPoint x="-190" y="510" />
+              <mxPoint x="-190" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QvjWjO3ixB_E6uKXtQRo-10" value="Μη επιβεβαίωση διαγραφής" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#FF3333,#ED0202);rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

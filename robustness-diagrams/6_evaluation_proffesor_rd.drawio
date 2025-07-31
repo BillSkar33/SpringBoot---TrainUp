@@ -1,0 +1,369 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="_801UGKHFGftR7HDqA80">
+    <mxGraphModel dx="2276" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Καθηγητής&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-2" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-3" value="Homepage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-5" value="Επιλογή προβολής&amp;nbsp;&lt;div&gt;αναθετημένων θέσεων&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;fontSize=13;fontStyle=2;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="35" y="220" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-6" value="Εμφάνιση αναθετημένων θέσεων" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-7" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-8" value="View Supervised&amp;nbsp;&lt;div&gt;Traineeships&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-6" target="R9ZZLbDqXU1EcCRm6UHd-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-2" target="R9ZZLbDqXU1EcCRm6UHd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-12" value="Επιλογή φοιτητή&amp;nbsp;&lt;div&gt;για βαθμολόγηση&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-13" value="Εμφάνιση φόρμας συμπλήρωσης βαθμολογιών" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-14" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="440" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-15" value="Evaluate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-13" target="R9ZZLbDqXU1EcCRm6UHd-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-7" target="R9ZZLbDqXU1EcCRm6UHd-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-19" value="Συμπλήρωση&amp;nbsp;&lt;div&gt;βαθμολογιών&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;rotation=35;" vertex="1" parent="1">
+          <mxGeometry x="75" y="350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-20" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-21" value="Βάση&amp;nbsp;&lt;div&gt;Δεδομένων&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-6" target="R9ZZLbDqXU1EcCRm6UHd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-23" value="Έλεγχος εγκυρότητας βαθμολογίας" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-14" target="R9ZZLbDqXU1EcCRm6UHd-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-25" value="Δημιουργία Βαθμολογίας" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="565" y="470" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-23" target="R9ZZLbDqXU1EcCRm6UHd-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-25" target="R9ZZLbDqXU1EcCRm6UHd-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-30" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-31" value="Βαθμολογία" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-25" target="R9ZZLbDqXU1EcCRm6UHd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-36" target="R9ZZLbDqXU1EcCRm6UHd-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-35" value="View Supervised&amp;nbsp;&lt;div&gt;Traineeships&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5" y="15" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-36" value="Εμφάνιση μηνύματος επιτυχίας" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="310" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-37" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-38" value="Εμφάνιση αναθετημένων θέσεων" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="500" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-38" target="R9ZZLbDqXU1EcCRm6UHd-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-25" target="R9ZZLbDqXU1EcCRm6UHd-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="550" as="sourcePoint" />
+            <mxPoint x="560" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="520" />
+              <mxPoint x="800" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-20" target="R9ZZLbDqXU1EcCRm6UHd-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-43" value="Έγκυρη&amp;nbsp;&lt;div&gt;βαθμολογία&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-44" value="Εμφάνιση μηνύματος λάθους" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=light-dark(#FF3333,#ED0202);fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="210" y="580" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-45" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-23" target="R9ZZLbDqXU1EcCRm6UHd-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="410" as="sourcePoint" />
+            <mxPoint x="550" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-48" value="Μη έγκυρη&amp;nbsp;&lt;div&gt;βαθμολογία&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-49" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-44" target="R9ZZLbDqXU1EcCRm6UHd-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376" y="566" as="sourcePoint" />
+            <mxPoint x="304" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-89" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-315" y="280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-90" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" target="R9ZZLbDqXU1EcCRm6UHd-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-25" y="320" as="sourcePoint" />
+            <mxPoint x="75" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-91" value="Επιλογή προβολής&amp;nbsp;&lt;div&gt;πληροφοριών Εταιρείας&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-195" y="270" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-92" value="Εμφάνιση παραθύρου πληροφοριών Εταιρείας" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0;fontColor=light-dark(#FF3333,#ED0202);strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-305" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-93" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-89" target="R9ZZLbDqXU1EcCRm6UHd-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="420" as="sourcePoint" />
+            <mxPoint x="75" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-95" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="290" as="sourcePoint" />
+            <mxPoint x="-10" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-96" value="Επιλογή&amp;nbsp;&lt;div&gt;επιστροφής&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-90" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-97" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-92" target="R9ZZLbDqXU1EcCRm6UHd-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-15" y="303" as="sourcePoint" />
+            <mxPoint x="-60" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-98" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-315" y="430" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-100" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-25" y="328.82352941176464" as="sourcePoint" />
+            <mxPoint x="-205" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-101" value="Επιλογή προβολής&amp;nbsp;&lt;div&gt;πληροφοριών Φοιτητή&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontColor=light-dark(#FF3333,#ED0202);rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-102" value="Εμφάνιση παραθύρου πληροφοριών Φοιτητή" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0;fontColor=light-dark(#FF3333,#ED0202);strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-220" y="580" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-103" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-5" y="480" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-104" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" target="R9ZZLbDqXU1EcCRm6UHd-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="390" as="sourcePoint" />
+            <mxPoint y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-105" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-98" target="R9ZZLbDqXU1EcCRm6UHd-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="310" as="sourcePoint" />
+            <mxPoint x="10" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-106" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-102" target="R9ZZLbDqXU1EcCRm6UHd-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="320" as="sourcePoint" />
+            <mxPoint x="20" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-107" value="View Supervised&amp;nbsp;&lt;div&gt;Traineeships&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-325" y="360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-108" value="View Supervised&amp;nbsp;&lt;div&gt;Traineeships&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-360" y="505" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-109" value="Student&amp;nbsp;&lt;div&gt;Details&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="40" y="555" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-110" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-103" target="R9ZZLbDqXU1EcCRm6UHd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="400" as="sourcePoint" />
+            <mxPoint x="760" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="740" />
+              <mxPoint x="760" y="730" />
+              <mxPoint x="770" y="80" />
+              <mxPoint x="610" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-111" value="Επιλογή&amp;nbsp;&lt;div&gt;επιστροφής&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-35" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-112" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-110" y="30" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-113" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-112" target="R9ZZLbDqXU1EcCRm6UHd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="43" y="310" as="sourcePoint" />
+            <mxPoint x="700" y="-70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="-10" />
+              <mxPoint x="460" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-114" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-65" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-115" value="View Supervised&amp;nbsp;&lt;div&gt;Traineeships&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-120" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="43" y="310" as="sourcePoint" />
+            <mxPoint x="-34" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-121" value="Επιλογή προβολής&amp;nbsp;&lt;div&gt;πληροφοριών&amp;nbsp;&lt;div&gt;πρακτικής θέσης&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-250" y="5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-122" value="Εμφάνιση παραθύρου πληροφοριών πρακτικής θέσης" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontStyle=0;fontColor=light-dark(#FF3333,#ED0202);strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-120" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-123" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-114" target="R9ZZLbDqXU1EcCRm6UHd-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-107" y="619" as="sourcePoint" />
+            <mxPoint x="5" y="557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-124" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="75" y="-105" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-125" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-122" target="R9ZZLbDqXU1EcCRm6UHd-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="-28" as="sourcePoint" />
+            <mxPoint x="-149" y="-46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-126" value="Traineeship Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=light-dark(#FF3333,#ED0202);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="-132" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-128" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-124" target="R9ZZLbDqXU1EcCRm6UHd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-191" y="150" as="sourcePoint" />
+            <mxPoint x="580" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-129" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#FF3333,#ED0202);" edge="1" parent="1" source="R9ZZLbDqXU1EcCRm6UHd-1" target="R9ZZLbDqXU1EcCRm6UHd-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-107" y="619" as="sourcePoint" />
+            <mxPoint x="5" y="557" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9ZZLbDqXU1EcCRm6UHd-131" value="Επιλογή&amp;nbsp;&lt;div&gt;επιστροφής&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=13;fontColor=light-dark(#FF3333,#ED0202);" vertex="1" parent="1">
+          <mxGeometry x="130" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
