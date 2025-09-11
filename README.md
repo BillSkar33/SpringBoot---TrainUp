@@ -144,8 +144,7 @@ Clear separation of concerns with dedicated controllers for each user role:
 - **Spring Data JPA**: Simplified data persistence with ORM
 
 ### **Database & Persistence**
-- **PostgreSQL**: Production-grade relational database
-- **H2**: In-memory database for development and testing
+- **MySQL**: Production-grade relational database
 - **Hibernate**: Object-relational mapping with advanced caching
 
 ### **Frontend & Templating**
@@ -254,7 +253,7 @@ All diagrams are available in the `/docs` directory with both source files and r
 ### **Prerequisites**
 - Java 11 or higher
 - Maven 3.6+
-- PostgreSQL 12+ (or use H2 for development)
+- MySQL
 
 ### **Quick Start**
 ```bash
@@ -265,6 +264,9 @@ cd train-up
 # Build the project
 mvn clean install
 
+# Edit the application properties
+change the fields for your Database and email verification key
+
 # Run with development profile (H2 database)
 mvn spring-boot:run -Dspring-boot.run.profiles=dev
 
@@ -272,33 +274,20 @@ mvn spring-boot:run -Dspring-boot.run.profiles=dev
 open http://localhost:8080
 ```
 
-### **Production Deployment**
-```bash
-# Build production JAR
-mvn clean package -Pprod
-
-# Run with external PostgreSQL
-java -jar target/train-up-1.0.jar --spring.profiles.active=prod
-```
-
 ---
 
 ## 👨‍💻 Contributors
 
-Developed by Computer Science & Engineering students at the **University of Ioannina** as part of the Software Technology curriculum.
+Developed by Me for Computer Science & Engineering students at the **University of Ioannina** as part of the Software Technology curriculum.
 
 ---
 
 ## 📄 License
 
-This project is developed for academic purposes as part of university coursework. All rights reserved to the University of Ioannina.
+This project is developed for academic purposes as part of university coursework.
 
 ---
 
 <div align="center">
-
-**🎓 University of Ioannina | Department of Computer Science & Engineering**
-
-*Empowering the next generation of software engineers through practical experience*
 
 </div>
