@@ -1,4 +1,4 @@
-# 🚂 Train-Up
+# 🚂 Traineeship Application - TrainUp
 ### Enterprise-Grade Internship Management Platform
 
 ![Java](https://img.shields.io/badge/Java-11+-orange)
