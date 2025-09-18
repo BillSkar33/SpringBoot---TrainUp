@@ -3,8 +3,6 @@
 
 ![Java](https://img.shields.io/badge/Java-11+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7+-green)
-![License](https://img.shields.io/badge/License-Academic-blue)
-![University](https://img.shields.io/badge/University-Ioannina-purple)
 
 **Train-Up** is a comprehensive web-based internship management platform developed as part of the **Software Technology** course at the **University of Ioannina**. It streamlines the entire internship lifecycle from position posting to final evaluation, connecting students, companies, supervising professors, and the Internship Committee in one integrated ecosystem.
 
@@ -274,19 +272,6 @@ mvn spring-boot:run -Dspring-boot.run.profiles=dev
 open http://localhost:8080
 ```
 
----
-
-## 👨‍💻 Contributors
-
-Developed by Me for Computer Science & Engineering students at the **University of Ioannina** as part of the Software Technology curriculum.
-
----
-
-## 📄 License
-
-This project is developed for academic purposes as part of university coursework.
-
----
 
 <div align="center">
 
