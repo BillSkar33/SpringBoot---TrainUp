@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-11+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7+-green)
 
-**Train-Up** is a comprehensive web-based internship management platform developed as part of the **Software Technology** course at the **University of Ioannina**. It streamlines the entire internship lifecycle from position posting to final evaluation, connecting students, companies, supervising professors, and the Internship Committee in one integrated ecosystem.
+**Train-Up** is a comprehensive web-based internship management platform developed as part of a personal project. It streamlines the entire internship lifecycle from position posting to final evaluation, connecting students, companies, supervising professors, and the Internship Committee in one integrated ecosystem.
 
 ---
 
@@ -20,7 +20,6 @@
 - [Strategic Assignment Algorithms](#-strategic-assignment-algorithms)
 - [Project Documentation](#-project-documentation)
 - [Getting Started](#-getting-started)
-- [Contributors](#-contributors)
 
 ---
 
